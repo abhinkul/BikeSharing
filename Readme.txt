@@ -1,3 +1,6 @@
+# Bike sharing
+> Predicting bike sharing count using linear regressio model
+
 =========================================
 Dataset characteristics
 =========================================	
